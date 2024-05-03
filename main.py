@@ -109,11 +109,6 @@ class GAME:
                 start = False
 
 
-# def draw_circle(x,y):
-#     pygame.draw.circle(screen, (0, 255, 0), (x, y), 1, 5) #(r, g, b) is color, (x, y) is center, R is radius and w is the thickness of the circle border.
-        
-
-
 if __name__ == "__main__":
  
     main_game = GAME()
